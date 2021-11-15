@@ -1,4 +1,4 @@
-package JJS;
+package jjs;
 
 public class MyClass {
     public static void main(String[] args) {
